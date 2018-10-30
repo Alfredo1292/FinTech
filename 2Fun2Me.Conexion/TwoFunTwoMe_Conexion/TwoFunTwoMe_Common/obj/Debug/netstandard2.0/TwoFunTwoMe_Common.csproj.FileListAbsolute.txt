@@ -1,0 +1,8 @@
+C:\IVAN\2Fun2Me.Conexion\TwoFunTwoMe_Conexion\TwoFunTwoMe_Common\bin\Debug\netstandard2.0\TwoFunTwoMe_Common.deps.json
+C:\IVAN\2Fun2Me.Conexion\TwoFunTwoMe_Conexion\TwoFunTwoMe_Common\bin\Debug\netstandard2.0\TwoFunTwoMe_Common.dll
+C:\IVAN\2Fun2Me.Conexion\TwoFunTwoMe_Conexion\TwoFunTwoMe_Common\bin\Debug\netstandard2.0\TwoFunTwoMe_Common.pdb
+C:\IVAN\2Fun2Me.Conexion\TwoFunTwoMe_Conexion\TwoFunTwoMe_Common\obj\Debug\netstandard2.0\TwoFunTwoMe_Common.csproj.CoreCompileInputs.cache
+C:\IVAN\2Fun2Me.Conexion\TwoFunTwoMe_Conexion\TwoFunTwoMe_Common\obj\Debug\netstandard2.0\TwoFunTwoMe_Common.AssemblyInfoInputs.cache
+C:\IVAN\2Fun2Me.Conexion\TwoFunTwoMe_Conexion\TwoFunTwoMe_Common\obj\Debug\netstandard2.0\TwoFunTwoMe_Common.AssemblyInfo.cs
+C:\IVAN\2Fun2Me.Conexion\TwoFunTwoMe_Conexion\TwoFunTwoMe_Common\obj\Debug\netstandard2.0\TwoFunTwoMe_Common.dll
+C:\IVAN\2Fun2Me.Conexion\TwoFunTwoMe_Conexion\TwoFunTwoMe_Common\obj\Debug\netstandard2.0\TwoFunTwoMe_Common.pdb
